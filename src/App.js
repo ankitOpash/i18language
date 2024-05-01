@@ -51,7 +51,7 @@ function App() {
     <>
       <nav className="navbar navbar-expand-lg shadow bg-light">
         <div className="container">
-          <div className="navbar-brand"><ImNpm className="fs-4 me-2" />i18next</div>
+          <div className="navbar-brand"><ImNpm className="fs-4 me-2" />LiveWithCodeAnkit</div>
           <div className="dropdown dropstart">
             <div className="dropdown-toggle" style={{ cursor: "pointer" }} data-bs-toggle="dropdown" aria-expanded="false">
               <GrLanguage className="fs-4" />
